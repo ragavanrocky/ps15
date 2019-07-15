@@ -6,4 +6,4 @@ elif(a0%(a2+a3)==0):
   print("YES")
 else:
   print("NO")
-xfhgd
+
